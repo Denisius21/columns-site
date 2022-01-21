@@ -1,0 +1,13 @@
+.div-img {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.class-skill-div {
+  display: inline-block;
+  width: 40%;
+}
+.class-human-div {
+  display: inline-block;
+  width: 50%;
+}
