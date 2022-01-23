@@ -51,10 +51,9 @@
   justify-content: center;
   align-items: center;
 }
-
-.link {
+ 
   
-}
+
 
 @media screen and (min-width: 768px) {
   :root {
