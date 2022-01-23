@@ -1,13 +1,34 @@
+.section-skill {
+  background: #E5E5E5;
+}
+.all-wrapper {
+  position: relative;
+}
+.wrapper-first { 
+  position: relative;
+  max-width: 345px;
+  border-bottom: 4px solid #34547a;
+}
+.wrapper-sec {
+  position: absolute;
+  left: 345px;
+  bottom: 0px ;
+  width: 100px;
+  border-bottom: 4px solid #c4c4c4;
+}
+.class-human-div {
+ margin: 129px 0 101px 0;
+}
 .div-img {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 .class-skill-div {
-  display: inline-block;
-  width: 40%;
+  margin-top: 231px;
 }
-.class-human-div {
-  display: inline-block;
-  width: 50%;
+.text-border {
+  margin: 29.76px 0 19.88px 0;
 }
+  
+
