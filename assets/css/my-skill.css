@@ -30,5 +30,27 @@
 .text-border {
   margin: 29.76px 0 19.88px 0;
 }
+@media screen and (max-width:576px){
+  .wrapper-first { 
+    position: relative;
+    max-width: 238px;
+    border-bottom: 4px solid #34547a;
+  }
+  .wrapper-sec {
+    position: absolute;
+    left: 235px;
+    bottom: 0px ;
+    width: 45px;
+    border-bottom: 4px solid #c4c4c4;
+  }
+  .class-human-div {
+    margin: 30px 0;
+  }
+  .text-border {
+    margin: 15px 0 10px 0;
+  }
+}
+
+
   
 
