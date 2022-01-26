@@ -2,6 +2,9 @@
   display: flex;
   justify-content: space-between;
 }
+.pic-mic {
+  max-width:320px;
+}
 @media screen and ( max-width:1200px){
   .display1 {
     display: none;
