@@ -1,0 +1,57 @@
+.you-want {
+  background-color: #eeeff1;
+}
+.flex-position-you {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.heading-second-you {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 2rem;
+  line-height: 1.2;
+  color: var(--heading-color);
+  margin: 100px 0 50px 0;
+}
+.text-section-you {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--text-color);
+  margin-bottom: 65px;
+}
+.form-class {
+  width: 100%;
+}
+.conteiner-input-first {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.first-name,
+.mail-name {
+  flex-grow: 2;
+  padding: 17px 0 18px 20px;
+}
+.container-area {
+  width: 100%;
+}
+.area-class {
+  width: 100%;
+  margin-bottom: 50px;
+}
+.butt {
+  width: 190px;
+  height: 55px;
+  padding: 20px 19px;
+  background-color: #34547a;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  margin-bottom: 50px;
+}
