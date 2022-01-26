@@ -49,6 +49,10 @@
   .text-border {
     margin: 15px 0 10px 0;
   }
+  .class-skill-div {
+    margin: 0;
+    text-align: center;
+  }
 }
 
 
